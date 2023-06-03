@@ -21,10 +21,10 @@ In Korean
 * [윈도우10에 구글 드라이브 설치하기](kr/how-to-install/INSTALL-on-windows10.md)
 
 ## Example: Ubuntu Linux
-When the Google Drive is mounted, you will see 'GoogleDrive' on the 'Desktop' screen. Double-click to open the directory and use it.
+When **Google Drive** is mounted, you can see it on **Desktop**.
 
 <img src='images/google-drive-ocamlfuse-mounted_result-2.png'>
 
-You will also see 'GoogleDrive' in the 'Files' program.
+**GoogleDrive** is shown in **Files**.
 
 <img src='images/google-drive-ocamlfuse-mounted_result-1.png'>
