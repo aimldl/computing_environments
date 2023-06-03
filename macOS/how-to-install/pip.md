@@ -4,6 +4,7 @@
 # How to Install `pip` on macOS
 * `pip` is part of the python formula.
 * Install python and `pip` will come along.
+  * Refer to [How to Install Python3 on MacOS](https://github.com/aimldl/computing_environments/blob/main/macOS/how-to-install/python3.md).
 
 ## The message shown when `pip` is installed via `brew`.
 ```bash
