@@ -5,6 +5,30 @@
 * Homebrew is a package manager for macOS and Linux.
 * You don’t need `sudo` after Homebrew’s initial installation when you `brew install`.
 
+## Summary
+```bash
+# Install
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+# Enter the password, hit the Enter key and wait until installation succeeds.
+  ...
+$
+
+# Set-up: add Homebrew to your `PATH`
+$ (echo; echo 'eval "$(/usr/local/bin/brew shellenv)"') >> /Users/thekim/.bash_profile
+$ eval "$(/usr/local/bin/brew shellenv)"
+$
+
+# Verify the installation
+$ brew --version
+  ...
+$
+
+# Example usage
+$ brew help
+  ...
+$
+```
+
 ## Install
 Google search: mac how to install brew
 * Homebrew > [Install Homebrew](https://brew.sh/)
