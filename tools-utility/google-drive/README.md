@@ -1,6 +1,6 @@
 * Draft: 2020-11-19 (Thu)
 
-# Googld Drive / 구글 드라이브
+# Googld Drive
 
 ## 개요
 구글 드라이브를 OS에 설치해서 직접 마운트 할 수 있습니다.
