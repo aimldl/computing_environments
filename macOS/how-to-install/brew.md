@@ -7,13 +7,11 @@
 
 ## Install
 Google search: mac how to install brew
-* Homebrew Documentation > Installation > [Git Remote Mirroring](https://docs.brew.sh/Installation#git-remote-mirroring)
+* Homebrew > [Install Homebrew](https://brew.sh/)
 
-Open Terminal and run the following commands.
+Open Terminal and run
 ```bash
-$ export HOMEBREW_BREW_GIT_REMOTE="..."  # put your Git mirror of Homebrew/brew here
-$ export HOMEBREW_CORE_GIT_REMOTE="..."  # put your Git mirror of Homebrew/homebrew-core here
-$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 The necessary interaction to proceed the installation is below.
@@ -22,31 +20,25 @@ First, enter the password.
 ==> Checking for `sudo` access (which may request your password)...
 Password: 
 ```
-Press `Enter`.
+Press the **Enter** key.
 ```bash
   ...
 Press RETURN/ENTER to continue or any other key to abort:
 ```
-and wait ...
+and wait
 ```bash
+==> /usr/bin/sudo /usr/sbin/chown -R thekim:admin /usr/local/Homebrew
+==> Downloading and installing Homebrew...
   ...
-Software Update Tool
+```
+until
+```bash
 
-Finding available software
-
-Downloading Command Line Tools for Xcode
 ```
 ## Verify the installation
 ```bash
 $ which brew
 /usr/local/bin/brew
-$
-```
-or
-```bash
-$ brew help
-Example usage:
-  ...
 $
 ```
 
@@ -78,6 +70,10 @@ Further help:
   https://docs.brew.sh
 $
 ```
+To learn more about brew, refer to https://brew.sh/
+* What Does Homebrew Do?
+* brew command documentation
+* and so on.
 
 ## Appendix. What is Homebrew or `brew`?
 > Homebrew is a free and open-source software package management system that simplifies the installation of software on Apple's operating system, macOS, as well as Linux. The name is intended to suggest the idea of building software on the Mac depending on the user's taste.
