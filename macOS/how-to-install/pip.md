@@ -1,20 +1,15 @@
+* Rev.1: 2023-06-03 (Sat)
 * Draft: 2021-12-15 (Wed)
  
 # How to Install `pip` on macOS
-`pip` will be installed when `python` is installed. 
+* `pip` is part of the python formula.
+* Install python and `pip` will come along.
+
+## The message shown when `pip` is installed via `brew`.
 ```bash
 $ brew install pip
   ...
 pip is part of the python formula:
   brew install python
-$
-```
-Refer to [How to Install Python3 on MacOS](../python3/INSTALL.md).
-
-After Python3 installation, `pip` is installed as follows.
-
-```bash
-$ pip --version
-pip 21.3.1 from /usr/local/lib/python3.9/site-packages/pip (python 3.9)
 $
 ```
