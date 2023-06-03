@@ -16,7 +16,7 @@ $ export HOMEBREW_CORE_GIT_REMOTE="..."  # put your Git mirror of Homebrew/homeb
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
-The interactions necessary to proceed the installation is below.
+The necessary interaction to proceed the installation is below.
 First, enter the password.
 ```bash
   ...
