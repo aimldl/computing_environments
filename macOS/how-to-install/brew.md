@@ -79,7 +79,7 @@ Further help:
 $
 ```
 
-## What is Homebrew or `brew`?
+## Appendix. What is Homebrew or `brew`?
 > Homebrew is a free and open-source software package management system that simplifies the installation of software on Apple's operating system, macOS, as well as Linux. The name is intended to suggest the idea of building software on the Mac depending on the user's taste.
 - source: [Homebrew (package manager)](https://en.wikipedia.org/wiki/Homebrew_(package_manager))
 
