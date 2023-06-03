@@ -81,8 +81,8 @@ $
 
 ## Appendix. What is Homebrew or `brew`?
 > Homebrew is a free and open-source software package management system that simplifies the installation of software on Apple's operating system, macOS, as well as Linux. The name is intended to suggest the idea of building software on the Mac depending on the user's taste.
-- source: [Homebrew (package manager)](https://en.wikipedia.org/wiki/Homebrew_(package_manager))
+\- source: [Homebrew (package manager)](https://en.wikipedia.org/wiki/Homebrew_(package_manager))
 
 ***People also ask*** > Is brew and Homebrew same?
 > brew is the core command for the Homebrew project. Homebrew installs the stuff you need that Apple didn't. Homebrew typically deals with command line software (not graphical GUI applications). Most of the software is distributed under an open source licence.Sep 25, 2017
-- source: [What is the difference between brew install X and brew cask install X](https://stackoverflow.com/questions/46403937/what-is-the-difference-between-brew-install-x-and-brew-cask-install-x#:~:text=brew%20is%20the%20core%20command%20for%20the%20Homebrew%20project.&text=Homebrew%20installs%20the%20stuff%20you,under%20an%20open%20source%20licence.)
+\- source: [What is the difference between brew install X and brew cask install X](https://stackoverflow.com/questions/46403937/what-is-the-difference-between-brew-install-x-and-brew-cask-install-x#:~:text=brew%20is%20the%20core%20command%20for%20the%20Homebrew%20project.&text=Homebrew%20installs%20the%20stuff%20you,under%20an%20open%20source%20licence.)
