@@ -44,7 +44,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 $
 ```
 
-## Reference
+## References
 * [Installing Python 3 on Mac OS X](https://docs.python-guide.org/starting/install3/osx/), The Hitchhiker's Guide to Python
 * [Simple Python Version Management: pyenv](https://github.com/pyenv/pyenv)
 * Google Cloud > Python > Documentation > Guides > Setting up a Python development environment > [Installing Python](https://cloud.google.com/python/docs/setup#installing_python)
