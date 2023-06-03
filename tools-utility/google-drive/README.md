@@ -13,6 +13,8 @@
 google search: google drive sync
 * https://www.google.com/drive/download/
 
+<img src='images/google_drive-download.png'>
+
 ## Install
 In Korean
 * [우분투 리눅스에 구글 드라이브 설치하기](kr/how-to-install/INSTALL-on-ubuntu_linux.md)
