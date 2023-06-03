@@ -126,6 +126,12 @@ To learn more about brew, refer to https://brew.sh/
 * brew command documentation
 * and so on.
 
+### How to check if `python` is installed
+```bash
+$ brew list | grep python
+python@3.9
+$
+```
 ## Appendix. What is Homebrew or `brew`?
 > Homebrew is a free and open-source software package management system that simplifies the installation of software on Apple's operating system, macOS, as well as Linux. The name is intended to suggest the idea of building software on the Mac depending on the user's taste.
 \- source: [Homebrew (package manager)](https://en.wikipedia.org/wiki/Homebrew_(package_manager))
