@@ -10,12 +10,11 @@ $ python --version
 Python 2.7.18
 $
 ```
-* If you need multiple Python versions, use `pyenv` which lets you easily switch between multiple versions of Python.
+* If you need multiple Python versions, use `pyenv` which lets you easily switch between multiple versions of Python. For details, refer to [Simple Python Version Management: pyenv](https://github.com/pyenv/pyenv).
 ```bash
 $ brew install pyenv
 $
 ```
-For details, refer to [Simple Python Version Management: pyenv](https://github.com/pyenv/pyenv).
 * If you need to install Python3 for Google Cloud, refer to **Google Cloud > Python > Documentation > Guides > Setting up a Python development environment > [Installing Python](https://cloud.google.com/python/docs/setup#installing_python)**.
 
 ## Prerequisite: install `brew` first
