@@ -33,9 +33,36 @@ and wait
 ```
 until
 ```bash
-
+  ...
+Updating files: 100% (3915/3915), done.
+  ...
+==> Installation successful!
+  ...
+==> Next steps:
+- Run these two commands in your terminal to add Homebrew to your PATH:
+    (echo; echo 'eval "$(/usr/local/bin/brew shellenv)"') >> /Users/thekim/.bash_profile
+    eval "$(/usr/local/bin/brew shellenv)"
+- Run brew help to get started
+- Further documentation:
+    https://docs.brew.sh
+$
+```
+## Set-up: add Homebrew to your `PATH`
+Run these two commands
+```bash
+$ (echo; echo 'eval "$(/usr/local/bin/brew shellenv)"') >> /Users/thekim/.bash_profile
+$ eval "$(/usr/local/bin/brew shellenv)"
+$
 ```
 ## Verify the installation
+```bash
+$ brew --version
+Homebrew 4.0.20
+Homebrew/homebrew-core (git revision 6a08b0dfd1c; last commit 2021-12-30)
+Homebrew/homebrew-cask (git revision efdaa855d6; last commit 2021-12-30)
+$
+```
+or
 ```bash
 $ which brew
 /usr/local/bin/brew
