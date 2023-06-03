@@ -17,6 +17,7 @@ google search: google drive sync
 
 ## Install
 In Korean
+* [macOS에 구글 드라이브 설치하기](kr/how-to-install/NSTALL-on-macOS.md)
 * [우분투 리눅스에 구글 드라이브 설치하기](kr/how-to-install/INSTALL-on-ubuntu_linux.md)
 * [윈도우10에 구글 드라이브 설치하기](kr/how-to-install/INSTALL-on-windows10.md)
 
