@@ -19,7 +19,6 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 The necessary interaction to proceed the installation is below.
 First, enter the password.
 ```bash
-  ...
 ==> Checking for `sudo` access (which may request your password)...
 Password: 
 ```
