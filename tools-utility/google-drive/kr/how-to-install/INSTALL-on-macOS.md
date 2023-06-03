@@ -1,4 +1,4 @@
-* Draft: 2023-06-03 (Sat)
+* Rev.1: 2023-06-03 (Sat)
 * Draft: 2020-11-20 (Fri)
 
 # macOS에 구글 드라이브 설치하기
@@ -18,9 +18,10 @@ google search: google drive sync
 
 <img src='images/google_drive-googledrive_pkg.png'>
 
-Continue를 눌러서 설치를 진행합니다. 일반적인 프로그램을 설치하는 것과 방법과 절차는 비슷합니다.
+Continue를 눌러서 설치를 진행합니다.
 <img src='images/google_drive-install_google_drive-introduction.png'>
 
+일반적인 프로그램을 설치하는 것과 방법과 절차는 비슷합니다.
 <img src='images/google_drive-installer-install_software.png'>
 
 <img src='images/google_drive-install_google_drive-summary.png'>
