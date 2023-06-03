@@ -11,7 +11,7 @@ Google search: mac how to install brew
 
 Open Terminal and run
 ```bash
-$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 The necessary interaction to proceed the installation is below.
