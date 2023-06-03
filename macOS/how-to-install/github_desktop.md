@@ -36,9 +36,8 @@ Click **Finish**.
 
 <img src='images/github_desktop-open_github_desktop.png'>
 
----
-<img src='images/aaa'>
+<img src='images/github_desktop-move_github_desktop_to_the_application_folder.png'>
 
-<img src='images/aaa'>
+<img src='images/github_desktop-github_desktop_wants_access_to_control_finder.png'>
 
-<img src='images/aaa'>
+<img src='images/github_desktop-lets_get_started.png'>
