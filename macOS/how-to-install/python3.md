@@ -45,5 +45,7 @@ $
 ```
 
 ## Reference
-* [The right and wrong way to set Python 3 as default on a Mac](https://opensource.com/article/19/5/python-3-default-mac), 2020-12-01, Matthew Broberg (Red Hat), Feed Moshe Zadka (Correspondent), opensource.com
 * [Installing Python 3 on Mac OS X](https://docs.python-guide.org/starting/install3/osx/), The Hitchhiker's Guide to Python
+* [Simple Python Version Management: pyenv](https://github.com/pyenv/pyenv)
+* Google Cloud > Python > Documentation > Guides > Setting up a Python development environment > [Installing Python](https://cloud.google.com/python/docs/setup#installing_python)
+* [How to Install Homebrew or brew on macOS](https://github.com/aimldl/computing_environments/blob/main/macOS/how-to-install/brew.md)
