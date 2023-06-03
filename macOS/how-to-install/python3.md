@@ -1,22 +1,22 @@
+* Rev.1: 2023-06-03 (Sat)
 * Draft: 2021-12-30 (Thu)
 
-# How to Install Python3 on MacOS
+# How to Install Python3 on macOS
 
 ## Overview
-* Python2 is the default Python version on MacOS.
+* To use Python3 on macOS, install it separately because Python2 is the default Python version on MacOS.
 ```bash
 $ python --version
 Python 2.7.18
 $
 ```
-* To use Python3, one should install it separately.
 * If you need multiple Python versions, use `pyenv` which lets you easily switch between multiple versions of Python.
 ```bash
 $ brew install pyenv
 $
 ```
 For details, refer to [Simple Python Version Management: pyenv](https://github.com/pyenv/pyenv).
-* If you need to install Python3 for Google Cloud, refer to Google Cloud > Python > Documentation > Guides > Setting up a Python development environment > [Installing Python](https://cloud.google.com/python/docs/setup#installing_python)
+* If you need to install Python3 for Google Cloud, refer to **Google Cloud > Python > Documentation > Guides > Setting up a Python development environment > [Installing Python](https://cloud.google.com/python/docs/setup#installing_python)**.
 
 ## Prerequisite: install `brew` first
 * Homebrew or `brew` is a package manager for macOS and Linux.
